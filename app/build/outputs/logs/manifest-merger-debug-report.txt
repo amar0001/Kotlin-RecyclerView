@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/574a8584c96a06a7bea2c907d12872cd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/43b917b78d215f1b02e5b8c258538168/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/46e21b7e18c211b7f76d118fb034b1f6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ee5025e041968024fac2404e0c8e683e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/6bfb692e6d7b8f769600d9e41a195a80/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6f2ea9e722de6a42ac10a19f2067eba0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/9cbb5fe6f3d72f695208b5e71277cbea/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/7975e04217d7d051a9e4b207002d9e68/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/af2962f35d387a282cdb5f2e8b6aae4d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b077b5aa1a3476f4f68204d1890c4f5d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e5470d4ef4586ff232bc3c4973230c76/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e2508c88746af7172d9443a1cd34c137/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/574a8584c96a06a7bea2c907d12872cd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/574a8584c96a06a7bea2c907d12872cd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/43b917b78d215f1b02e5b8c258538168/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/43b917b78d215f1b02e5b8c258538168/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/46e21b7e18c211b7f76d118fb034b1f6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/46e21b7e18c211b7f76d118fb034b1f6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ee5025e041968024fac2404e0c8e683e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ee5025e041968024fac2404e0c8e683e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/6bfb692e6d7b8f769600d9e41a195a80/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/6bfb692e6d7b8f769600d9e41a195a80/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6f2ea9e722de6a42ac10a19f2067eba0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6f2ea9e722de6a42ac10a19f2067eba0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/7975e04217d7d051a9e4b207002d9e68/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/7975e04217d7d051a9e4b207002d9e68/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/af2962f35d387a282cdb5f2e8b6aae4d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/af2962f35d387a282cdb5f2e8b6aae4d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b077b5aa1a3476f4f68204d1890c4f5d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b077b5aa1a3476f4f68204d1890c4f5d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e5470d4ef4586ff232bc3c4973230c76/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e5470d4ef4586ff232bc3c4973230c76/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e2508c88746af7172d9443a1cd34c137/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e2508c88746af7172d9443a1cd34c137/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.amarjitkaur.alarmsample.MainActivity
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:12:9-59
+	android:name
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:12:19-47
+activity#com.example.amarjitkaur.alarmsample.DashboardActivity
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:15:13-61
+	android:theme
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:14:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.amarjitkaur.alarmsample.TabbedActivity
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:23:9-26:68
+	android:label
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:25:13-58
+	android:theme
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:24:13-43
+activity#com.example.amarjitkaur.alarmsample.ActionBarTabbs
+ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:27:9-30:68
+	android:label
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:29:13-68
+	android:theme
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:28:13-43
+uses-sdk
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/574a8584c96a06a7bea2c907d12872cd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/574a8584c96a06a7bea2c907d12872cd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/43b917b78d215f1b02e5b8c258538168/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/43b917b78d215f1b02e5b8c258538168/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/46e21b7e18c211b7f76d118fb034b1f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/46e21b7e18c211b7f76d118fb034b1f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ee5025e041968024fac2404e0c8e683e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ee5025e041968024fac2404e0c8e683e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/6bfb692e6d7b8f769600d9e41a195a80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/6bfb692e6d7b8f769600d9e41a195a80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6f2ea9e722de6a42ac10a19f2067eba0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6f2ea9e722de6a42ac10a19f2067eba0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/9cbb5fe6f3d72f695208b5e71277cbea/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/9cbb5fe6f3d72f695208b5e71277cbea/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/7975e04217d7d051a9e4b207002d9e68/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/7975e04217d7d051a9e4b207002d9e68/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/af2962f35d387a282cdb5f2e8b6aae4d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/af2962f35d387a282cdb5f2e8b6aae4d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b077b5aa1a3476f4f68204d1890c4f5d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b077b5aa1a3476f4f68204d1890c4f5d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e5470d4ef4586ff232bc3c4973230c76/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e5470d4ef4586ff232bc3c4973230c76/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e2508c88746af7172d9443a1cd34c137/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e2508c88746af7172d9443a1cd34c137/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/574a8584c96a06a7bea2c907d12872cd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/574a8584c96a06a7bea2c907d12872cd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/46e21b7e18c211b7f76d118fb034b1f6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/46e21b7e18c211b7f76d118fb034b1f6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ee5025e041968024fac2404e0c8e683e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ee5025e041968024fac2404e0c8e683e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/6bfb692e6d7b8f769600d9e41a195a80/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/6bfb692e6d7b8f769600d9e41a195a80/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6f2ea9e722de6a42ac10a19f2067eba0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/6f2ea9e722de6a42ac10a19f2067eba0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/9cbb5fe6f3d72f695208b5e71277cbea/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/9cbb5fe6f3d72f695208b5e71277cbea/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/7975e04217d7d051a9e4b207002d9e68/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/7975e04217d7d051a9e4b207002d9e68/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/af2962f35d387a282cdb5f2e8b6aae4d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/af2962f35d387a282cdb5f2e8b6aae4d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b077b5aa1a3476f4f68204d1890c4f5d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b077b5aa1a3476f4f68204d1890c4f5d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e5470d4ef4586ff232bc3c4973230c76/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e5470d4ef4586ff232bc3c4973230c76/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e2508c88746af7172d9443a1cd34c137/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e2508c88746af7172d9443a1cd34c137/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/amarjit.kaur/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2630daed60a0afc5e8be9356fca0385a/AndroidManifest.xml:26:9-47

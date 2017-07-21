@@ -1,0 +1,4 @@
+#Tue Jul 18 10:54:30 IST 2017
+base.0=/Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/amarjit.kaur/ApkProjects/RecyclerViewKotlin/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
